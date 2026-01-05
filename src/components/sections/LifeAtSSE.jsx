@@ -96,12 +96,12 @@ const LifeAtSSE = () => {
       <Container>
         <SectionHeader
           subtitle="Student Experience"
-          title="Life at Sanskrithi School of Engineering"
+          title="Life at Sanskriti School of Engineering"
           description="Discover a vibrant campus life that complements academic excellence with diverse extracurricular activities"
           centered={true}
         />
         
-        
+
         {/* Enhanced category navigation */}
         <div className="d-flex justify-content-center mb-5">
           <div className="category-tabs">
