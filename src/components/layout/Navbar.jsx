@@ -259,7 +259,7 @@ const Navbar = ({ scrollPosition }) => {
               <i className="fab fa-linkedin-in"></i>
             </a>
           </div>
-          <p className="copyright">© 2025 Sanskriti School of Engineering</p>
+          <p className="copyright">© 2025 sanskrithi School of Engineering</p>
         </div>
       </div>
 

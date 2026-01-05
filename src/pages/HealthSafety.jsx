@@ -7,7 +7,7 @@ import Contact from "../components/common/Contact";
 
 /**
  * Health and Safety page component
- * Showcases health services and safety measures at Sanskriti School of Engineering
+ * Showcases health services and safety measures at sanskrithi School of Engineering
  */
 const HealthSafety = () => {
   // For parallax effect (reusing from other components)
@@ -142,7 +142,7 @@ const HealthSafety = () => {
                 <h5 className="text-uppercase fw-light mb-3">Student Wellbeing</h5>
                 <h1 className="display-4 fw-bold mb-4">Health & Safety Services</h1>
                 <p className="lead mb-4">
-                  Your wellbeing is our priority. Explore the comprehensive health and safety services available at Sanskriti School of Engineering.
+                  Your wellbeing is our priority. Explore the comprehensive health and safety services available at sanskrithi School of Engineering.
                 </p>
                 <Button 
                   variant="brand"

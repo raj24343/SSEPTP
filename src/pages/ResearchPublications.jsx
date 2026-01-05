@@ -236,7 +236,7 @@ const ResearchPublications = () => {
                 centered={false}
               />
               <p className="mb-4">
-                The Humanities and Applied Sciences department at Sanskriti School of Engineering actively contributes 
+                The Humanities and Applied Sciences department at sanskrithi School of Engineering actively contributes 
                 to advancing knowledge through high-quality research publications in biotechnology, environmental science, 
                 computer applications, and materials science.
               </p>

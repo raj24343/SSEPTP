@@ -105,7 +105,7 @@ const IQAC = () => {
               <SectionHeader
                 subtitle="Quality Assurance"
                 title="About IQAC"
-                description="The Internal Quality Assurance Cell (IQAC) at Sanskriti School of Engineering works to maintain and enhance academic quality and institutional effectiveness."
+                description="The Internal Quality Assurance Cell (IQAC) at sanskrithi School of Engineering works to maintain and enhance academic quality and institutional effectiveness."
                 centered={false}
               />
               

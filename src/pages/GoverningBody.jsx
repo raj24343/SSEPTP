@@ -41,7 +41,7 @@ const GoverningBody = () => {
             <Col lg={6} className="mb-4 mb-lg-0">
               <h2 className="fw-bold mb-4">Our Governance Structure</h2>
               <p className="mb-4">
-                The Governing Body of Sanskriti School of Engineering is responsible for strategic direction, policy formulation, and oversight of the institution's operations. Comprising distinguished leaders, the body ensures that SSE maintains its commitment to educational excellence.
+                The Governing Body of sanskrithi School of Engineering is responsible for strategic direction, policy formulation, and oversight of the institution's operations. Comprising distinguished leaders, the body ensures that SSE maintains its commitment to educational excellence.
               </p>
               <p>
                 Regular meetings of the Governing Body are held to review the institution's progress, approve key initiatives, and ensure compliance with regulatory requirements. This governance structure enables SSE to adapt to changing educational landscapes while staying true to its core values.

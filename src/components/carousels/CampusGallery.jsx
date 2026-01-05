@@ -111,7 +111,7 @@ const CampusGallery = ({ galleryData = [] }) => {
       category: 'infrastructure',
       title: 'College Entrance',
       image: outside,
-      description: 'The welcoming entrance to Sanskriti School of Engineering'
+      description: 'The welcoming entrance to sanskrithi School of Engineering'
     },
     {
       id: 10,
@@ -371,7 +371,7 @@ const CampusGallery = ({ galleryData = [] }) => {
         <SectionHeader
           subtitle="Virtual Tour"
           title="Explore Our Beautiful Campus"
-          description="Take a visual journey through the facilities and vibrant life at Sanskriti School of Engineering"
+          description="Take a visual journey through the facilities and vibrant life at sanskrithi School of Engineering"
           centered={true}
         />
         

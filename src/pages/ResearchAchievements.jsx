@@ -251,7 +251,7 @@ const ResearchAchievements = () => {
               <h5 className="text-primary text-uppercase fw-semibold mb-2">Excellence in Research</h5>
               <h2 className="fw-bold mb-4">Our Research Milestones</h2>
               <p className="mb-4">
-                At Sanskriti School of Engineering, we take pride in our research achievements that 
+                At sanskrithi School of Engineering, we take pride in our research achievements that 
                 demonstrate our commitment to innovation, excellence, and societal impact. Our faculty 
                 and students have received recognition for their contributions to various fields of 
                 engineering and technology.

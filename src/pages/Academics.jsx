@@ -262,7 +262,7 @@ const Courses = () => {
                     Tremendous developments and inventions in industry, research, and development are taking place at a rapid pace.
                   </p>
                   <p className="mb-4">
-                    To meet these challenges, Sanskriti School of Engineering, an Autonomous Institute under JNTUH and UGC, 
+                    To meet these challenges, sanskrithi School of Engineering, an Autonomous Institute under JNTUH and UGC, 
                     continuously revises its curricula to strengthen infrastructural facilities, motivate faculty to pursue 
                     research, and involve students in ongoing industry and R&D sponsored projects. This enables the institution 
                     to transform young amateur engineers into highly skilled professional technocrats, meeting the Institution's 

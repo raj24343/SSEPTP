@@ -49,7 +49,7 @@ const ChairmanMessage = () => {
                 Dear Students and Parents,
               </p>
               <p className="mb-4">
-                It gives me immense pleasure to welcome you to Sanskriti School of Engineering. Our institution stands as a testament to our commitment to providing quality education that blends traditional values with modern technology.
+                It gives me immense pleasure to welcome you to sanskrithi School of Engineering. Our institution stands as a testament to our commitment to providing quality education that blends traditional values with modern technology.
               </p>
               <p>
                 At SSE, we believe in nurturing not just skilled engineers, but compassionate human beings who will contribute meaningfully to society. Our state-of-the-art infrastructure, dedicated faculty, and industry-aligned curriculum are designed to prepare students for the challenges of the future.

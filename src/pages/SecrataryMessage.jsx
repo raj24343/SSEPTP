@@ -49,7 +49,7 @@ function SecretaryMessage  () {
                 Dear Students and Parents,
               </p>
               <p className="mb-4">
-                As the Secretary of Sanskriti School of Engineering, I am committed to ensuring that our institution maintains the highest standards of administrative efficiency and transparency. Our administrative team works diligently to create a supportive environment where students can focus on their learning and development.
+                As the Secretary of sanskrithi School of Engineering, I am committed to ensuring that our institution maintains the highest standards of administrative efficiency and transparency. Our administrative team works diligently to create a supportive environment where students can focus on their learning and development.
               </p>
               <p>
                 We believe in open communication with all stakeholders and continuous improvement of our systems and processes. Our goal is to make the administrative experience as smooth and hassle-free as possible, allowing students to make the most of their time at SSE.

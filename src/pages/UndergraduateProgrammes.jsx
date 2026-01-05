@@ -202,7 +202,7 @@ const UndergraduateProgrammes = () => {
               <div className="pe-lg-4">
                 <h5 className="text-primary text-uppercase fw-semibold mb-2">Engineering Education</h5>
                 <h2 className="fw-bold mb-4">Bachelor of Technology (B.Tech)</h2>
-                <p className="mb-4">At Sanskriti School of Engineering, we offer comprehensive B.Tech programmes that blend theoretical knowledge with practical skills. Our curriculum is designed in consultation with industry experts to ensure that our graduates are ready to meet the challenges of the engineering profession.</p>
+                <p className="mb-4">At sanskrithi School of Engineering, we offer comprehensive B.Tech programmes that blend theoretical knowledge with practical skills. Our curriculum is designed in consultation with industry experts to ensure that our graduates are ready to meet the challenges of the engineering profession.</p>
                 <p className="mb-4">All B.Tech programmes are approved by AICTE and follow the latest curriculum guidelines with a focus on innovation, research, and entrepreneurship.</p>
                 
                 <div className="mb-4">

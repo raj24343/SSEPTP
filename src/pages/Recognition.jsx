@@ -30,7 +30,7 @@ const Recognition = () => {
             <Col lg={6} className="mb-4 mb-lg-0">
               <h2 className="fw-bold mb-4">Our Accreditations</h2>
               <p className="mb-4">
-                Sanskriti School of Engineering is proud to be recognized by premier educational regulatory bodies in India. These accreditations affirm our commitment to maintaining high standards of education and infrastructure.
+                sanskrithi School of Engineering is proud to be recognized by premier educational regulatory bodies in India. These accreditations affirm our commitment to maintaining high standards of education and infrastructure.
               </p>
               <p>
                 Our NAAC 'A' Grade accreditation with a score of 3.17 out of 4 reflects our dedication to quality teaching, research, and overall institutional excellence.

@@ -80,7 +80,7 @@ function AdmissionProcess() {
           <SectionHeader
             subtitle="Application Journey"
             title="Step-by-Step Admission Process"
-            description="Follow these simple steps to join the Sanskriti School of Engineering family"
+            description="Follow these simple steps to join the sanskrithi School of Engineering family"
             centered={true} />
 
           <Row className="g-4 justify-content-center">

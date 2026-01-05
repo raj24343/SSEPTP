@@ -622,7 +622,7 @@ function RIT() {
               <h2 className="display-6 fw-bold mb-4">Program Overview</h2>
               <p className="mb-4">
                 The RISE Institute of Higher Technologies (RIT) Program is
-                offered by Sanskriti School of Engineering in cooperation with
+                offered by sanskrithi School of Engineering in cooperation with
                 RISE & INSO. This comprehensive program is designed to enhance
                 the programming and software engineering skills of CSE students
                 through hands-on practice and real-world problem-solving.

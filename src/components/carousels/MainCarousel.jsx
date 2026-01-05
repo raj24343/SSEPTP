@@ -60,7 +60,7 @@ const MainCarousel = ({ slides = [] }) => {
       title: "Academic Excellence",
       subtitle: "NAAC Accredited Engineering Education",
       description:
-        "Sanskriti School of Engineering offers industry-aligned curriculum with innovative teaching methodologies.",
+        "sanskrithi School of Engineering offers industry-aligned curriculum with innovative teaching methodologies.",
       buttonText: "Explore Academics",
        buttonLink: "/academics/courses",
     },{

@@ -20,7 +20,7 @@ import ground from "../assets/cricketSSE.jpg";
 import volleySSE from "../assets/volleySSE.jpg";
 /**
  * SSE Sports page component
- * Showcases sports facilities and activities at Sanskriti School of Engineering
+ * Showcases sports facilities and activities at sanskrithi School of Engineering
  */
 const SSESports = () => {
   // For parallax effect (reusing from other components)
@@ -149,7 +149,7 @@ const SSESports = () => {
       image: basketball,
     },
     {
-      title: "Sanskriti Marathon",
+      title: "sanskrithi Marathon",
       date: "December 2025",
       description:
         "Annual marathon event with 5K, 10K, and half-marathon categories, open to students, faculty, and the general public.",
@@ -241,7 +241,7 @@ const SSESports = () => {
                 Sports Philosophy at SSE
               </h2>
               <p className="lead mb-4">
-                At Sanskriti School of Engineering, we believe that sporting
+                At sanskrithi School of Engineering, we believe that sporting
                 excellence goes hand in hand with academic achievement.
               </p>
               <p className="mb-4">

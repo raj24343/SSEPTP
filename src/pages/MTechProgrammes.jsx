@@ -95,7 +95,7 @@ function MTechProgrammes  ()  {
               <div className="pe-lg-4">
                 <h5 className="text-primary text-uppercase fw-semibold mb-2">Advanced Education</h5>
                 <h2 className="fw-bold mb-4">Master of Technology (M.Tech)</h2>
-                <p className="mb-4">The M.Tech programmes at Sanskriti School of Engineering offer advanced, specialized education with emphasis on research and innovation. Our postgraduate courses are designed to create specialists and researchers ready to tackle complex engineering challenges.</p>
+                <p className="mb-4">The M.Tech programmes at sanskrithi School of Engineering offer advanced, specialized education with emphasis on research and innovation. Our postgraduate courses are designed to create specialists and researchers ready to tackle complex engineering challenges.</p>
                 
                 <div className="mb-4">
                   <div className="d-flex align-items-start mb-3">

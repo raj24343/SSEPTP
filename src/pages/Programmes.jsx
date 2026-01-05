@@ -114,7 +114,7 @@ const Programmes = () => {
             <div className="col-lg-8">
               <h1 className="display-4 fw-bold mb-3">B.Tech Programmes</h1>
               <p className="lead opacity-75 mb-0">
-                Sanskriti School of Engineering offers undergraduate engineering programmes designed to develop technical knowledge, practical skills, and innovative thinking.
+                sanskrithi School of Engineering offers undergraduate engineering programmes designed to develop technical knowledge, practical skills, and innovative thinking.
               </p>
             </div>
           </div>
@@ -134,7 +134,7 @@ const Programmes = () => {
               <div className="pe-lg-5">
                 <h2 className="display-5 fw-bold text-primary mb-4 position-relative pb-3">Engineering Excellence</h2>
                 <p className="lead text-secondary mb-4">
-                  At Sanskriti School of Engineering, we are committed to providing quality engineering education that prepares students for the challenges of the future. Our B.Tech programmes are designed with industry inputs and focus on practical learning.
+                  At sanskrithi School of Engineering, we are committed to providing quality engineering education that prepares students for the challenges of the future. Our B.Tech programmes are designed with industry inputs and focus on practical learning.
                 </p>
                 <div className="row mb-4">
                   {[
@@ -305,7 +305,7 @@ const Programmes = () => {
           <SectionHeader
             subtitle="Why SSE"
             title="Engineering Education Excellence"
-            description="What makes Sanskriti School of Engineering the ideal choice for your B.Tech journey"
+            description="What makes sanskrithi School of Engineering the ideal choice for your B.Tech journey"
             centered={true}
           />
           

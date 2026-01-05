@@ -104,7 +104,7 @@ const ResearchOverview = () => {
               <h5 className="text-primary text-uppercase fw-semibold mb-2">Research Vision</h5>
               <h2 className="fw-bold mb-4">Driving Innovation Through Research Excellence</h2>
               <p className="mb-4">
-                At Sanskriti School of Engineering, research is integral to our academic mission. We foster an 
+                At sanskrithi School of Engineering, research is integral to our academic mission. We foster an 
                 environment where students and faculty engage in cutting-edge research that addresses real-world 
                 challenges and contributes to societal development.
               </p>
@@ -190,7 +190,7 @@ const ResearchOverview = () => {
           <SectionHeader
             subtitle="Our Approach"
             title="Research Methodology"
-            description="How we conduct research at Sanskriti School of Engineering"
+            description="How we conduct research at sanskrithi School of Engineering"
             centered={true}
           />
           

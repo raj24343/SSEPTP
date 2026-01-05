@@ -59,7 +59,7 @@ const College = () => {
               <Badge bg="primary" className="mb-3 px-3 py-2">NAAC 'A' Grade Accredited</Badge>
               <h2 className="display-6 fw-bold mb-4">A Unique Educational Environment</h2>
               <p className="mb-4">
-                Located in Puttaparthi, the center of Sathya Sai District, Sanskriti School of Engineering 
+                Located in Puttaparthi, the center of Sathya Sai District, sanskrithi School of Engineering 
                 offers a distinctive learning environment that blends academic excellence with timeless values. 
                 Our campus benefits from the serene atmosphere of this renowned spiritual center, providing 
                 students with an ideal setting for focused learning and personal growth.

@@ -18,7 +18,7 @@ const CommitteeDetail = () => {
     "iqac": {
       name: "IQAC",
       fullName: "Internal Quality Assurance Cell",
-      description: "The Internal Quality Assurance Cell (IQAC) at Sanskriti School of Engineering plays a pivotal role in maintaining and enhancing the quality of education. It develops a system for conscious, consistent, and catalytic improvement in the academic and administrative performance of the institution.",
+      description: "The Internal Quality Assurance Cell (IQAC) at sanskrithi School of Engineering plays a pivotal role in maintaining and enhancing the quality of education. It develops a system for conscious, consistent, and catalytic improvement in the academic and administrative performance of the institution.",
       icon: "fas fa-medal",
       color: "#1D9DD9", // Blue
       banner: "https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80",
@@ -58,7 +58,7 @@ const CommitteeDetail = () => {
     "nptel": {
       name: "NPTEL",
       fullName: "National Programme on Technology Enhanced Learning",
-      description: "The NPTEL chapter at Sanskriti School of Engineering facilitates web and video courses in engineering, science, and humanities streams to enhance the quality of engineering education. It provides a platform for students and faculty to access world-class educational resources.",
+      description: "The NPTEL chapter at sanskrithi School of Engineering facilitates web and video courses in engineering, science, and humanities streams to enhance the quality of engineering education. It provides a platform for students and faculty to access world-class educational resources.",
       icon: "fas fa-laptop",
       color: "#F9843D", // Orange
       banner: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80",
@@ -424,7 +424,7 @@ const CommitteeDetail = () => {
         <div className="container py-3 text-center">
           <h2 className="h3 fw-bold mb-4">Join {committee.name}</h2>
           <p className="mb-4">
-            Interested in contributing to {committee.name} at Sanskriti School of Engineering?
+            Interested in contributing to {committee.name} at sanskrithi School of Engineering?
             We welcome participation from faculty and students who are passionate about our mission.
           </p>
           <div className="d-flex justify-content-center gap-3">
