@@ -101,6 +101,7 @@ const LifeAtSSE = () => {
           centered={true}
         />
         
+        
         {/* Enhanced category navigation */}
         <div className="d-flex justify-content-center mb-5">
           <div className="category-tabs">
